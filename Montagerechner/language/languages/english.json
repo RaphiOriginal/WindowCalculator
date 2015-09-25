@@ -1,0 +1,26 @@
+{
+	"language":"English",
+	"menu":{
+		"file":"File",
+		"info":"Info",
+		"exit":"Exit",
+		"languages":"Languages"
+	},
+	"buttons":{
+		"clear":"Clear",
+		"calculate":"Calculate"
+	},
+	"results":{
+		"result1":"X-Distance",
+		"result2":"Y-Distance"
+	},
+	"input":{
+		"console1":"Frame console height",
+		"console2":"Window console height",
+		"pistonIn":"Piston length in",
+		"pistonOut":"Piston length out",
+		"pivotDistance":"Pivot distance",
+		"angle":"Windowangle"
+	}
+
+}

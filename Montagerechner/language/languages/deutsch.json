@@ -1,0 +1,26 @@
+{
+	"language":"Deutsch",
+	"menu":{
+		"file":"Datei",
+		"info":"Info",
+		"exit":"Schliessen",
+		"languages":"Sprachen"
+	},
+	"buttons":{
+		"clear":"Löschen",
+		"calculate":"Berechnen"
+	},
+	"results":{
+		"result1":"X-Länge",
+		"result2":"Y-Länge"
+	},
+	"input":{
+		"console1":"Halterhöhe",
+		"console2":"Stosserhöhe",
+		"pistonIn":"Armlänge eingefahren",
+		"pistonOut":"Armlänge ausgefahren",
+		"pivotDistance":"Abstand Fensterdrehpunkt",
+		"angle":"Winkel des Fensters"
+	}
+
+}
