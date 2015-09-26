@@ -3,6 +3,7 @@
 	"menu":{
 		"file":"Datei",
 		"info":"Info",
+		"about":"Über",
 		"exit":"Schliessen",
 		"languages":"Sprachen"
 	},
@@ -20,7 +21,8 @@
 		"pistonIn":"Armlänge eingefahren",
 		"pistonOut":"Armlänge ausgefahren",
 		"pivotDistance":"Abstand Fensterdrehpunkt",
-		"angle":"Winkel des Fensters"
+		"angle":"Winkel des Fensters",
+		"windowThickness":"Fenster Ueberstand"
 	}
 
 }

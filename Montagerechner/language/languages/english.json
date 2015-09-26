@@ -3,6 +3,7 @@
 	"menu":{
 		"file":"File",
 		"info":"Info",
+		"about":"Über",
 		"exit":"Exit",
 		"languages":"Languages"
 	},
@@ -20,7 +21,8 @@
 		"pistonIn":"Piston length in",
 		"pistonOut":"Piston length out",
 		"pivotDistance":"Pivot distance",
-		"angle":"Windowangle"
+		"angle":"Windowangle",
+		"windowThickness":"Window Thickness"
 	}
 
 }

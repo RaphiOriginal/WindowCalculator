@@ -16,8 +16,6 @@ public class LanguageController implements LanguageControllerInterface{
 	
 	private final String LIST_PATH;
 	private final String LANGUAGES_PATH;
-//	private final String LIST_PATH = "language/languages.json";
-//	private final String LANGUAGES_PATH = "language/languages";
 	private final String EMPTY_JSON = "{\"languages\":[]}";
 	
 	private JSONObject languagesObject;
@@ -34,7 +32,6 @@ public class LanguageController implements LanguageControllerInterface{
 
 	@Override
 	public String getName(String type, String element) {
-		// TODO Auto-generated method stub
 		JSONObject elements = usingLanguage.getJSONObject(type);
 		return elements.getString(element);
 	}
