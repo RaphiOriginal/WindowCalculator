@@ -6,11 +6,11 @@
 		"exit":"Schliessen",
 		"languages":"Sprachen"
 	},
-	"buttons":{
+	"button":{
 		"clear":"Löschen",
 		"calculate":"Berechnen"
 	},
-	"results":{
+	"result":{
 		"result1":"X-Länge",
 		"result2":"Y-Länge"
 	},

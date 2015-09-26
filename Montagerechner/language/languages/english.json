@@ -6,11 +6,11 @@
 		"exit":"Exit",
 		"languages":"Languages"
 	},
-	"buttons":{
+	"button":{
 		"clear":"Clear",
 		"calculate":"Calculate"
 	},
-	"results":{
+	"result":{
 		"result1":"X-Distance",
 		"result2":"Y-Distance"
 	},
