@@ -1,5 +1,7 @@
 package ch.raphi.jomoscalculator.gui;
 
+import java.awt.Dimension;
+
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
@@ -19,6 +21,9 @@ public class About extends JFrame{
 	public About(){
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setTitle("About");
+		
+		setPreferredSize(new Dimension(250, 200));
+		setResizable(false);
 		
 		JLabel content = new JLabel();
 		content.setHorizontalAlignment(JLabel.CENTER);

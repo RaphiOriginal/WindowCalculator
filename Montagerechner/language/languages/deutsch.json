@@ -12,15 +12,15 @@
 		"calculate":"Berechnen"
 	},
 	"result":{
-		"result1":"X-Länge",
-		"result2":"Y-Länge"
+		"result1":"Abstand Flügelbock",
+		"result2":"Abstand Konsole"
 	},
 	"input":{
-		"console1":"Halterhöhe",
-		"console2":"Stosserhöhe",
-		"pistonIn":"Armlänge eingefahren",
-		"pistonOut":"Armlänge ausgefahren",
-		"pivotDistance":"Abstand Fensterdrehpunkt",
+		"console1":"Flügelbock",
+		"console2":"Konsole",
+		"pistonIn":"Linearantrieb",
+		"pistonOut":"Linearantrieb ausgefahren",
+		"pivotDistance":"Abstand zum Fensterdrehpunkt",
 		"angle":"Winkel des Fensters",
 		"windowThickness":"Fenster Ueberstand"
 	}
